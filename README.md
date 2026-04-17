@@ -27,7 +27,7 @@ Marketing team needed to evaluate the performance of multiple channels (Facebook
 
 * Google generates the highest revenue while maintaining the lowest CAC, making it the most efficient channel.
 * Email marketing provides cost-effective acquisition with moderate CAC.
-* Overall ROI of ~297% indicates strong campaign performance.
+* Overall ROI of ~290% indicates strong campaign performance.
 * Revenue trend shows consistent growth aligned with optimized spend.
 
 ##  Business Recommendations
@@ -39,9 +39,9 @@ Marketing team needed to evaluate the performance of multiple channels (Facebook
 
 ##  Dashboard Preview
 
-![Dashboard](Dashboard.png<img width="1128" height="622" alt="Dashboard" src="https://github.com/user-attachments/assets/80e523d1-cd33-4fb9-99f3-0e2f614c2124" />
-)
+![Dashboard](Dashboard.png) 
 
+ 
 ##  Live Dashboard
 
 https://app.powerbi.com/links/pWP6gknckl?ctid=773f5abc-b720-43f2-a0ac-8f333fea30ad&pbi_source=linkShare
