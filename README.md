@@ -39,7 +39,8 @@ Marketing team needed to evaluate the performance of multiple channels (Facebook
 
 ##  Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png<img width="1128" height="622" alt="Dashboard" src="https://github.com/user-attachments/assets/80e523d1-cd33-4fb9-99f3-0e2f614c2124" />
+)
 
 ##  Live Dashboard
 
